@@ -1,9 +1,11 @@
 # IBMCapstoneFinalProject
 This repository is for the IBM Coursera Applied Data Science capstone project.  
+
 Objective: "Come up with an idea to leverage the Foursquare location data to explore or compare neighborhoods or cities of your choice or to come up with a problem that you can use the Foursquare location data to solve."  
 
 I chose to use KMeans to cluster the 100 most populated metropolitan areas.  
 The project consists of 5 notebooks and several json files.  
+
 Notebooks:  
 * Part 1 - Get Location Data: https://nbviewer.jupyter.org/github/KathrynDH/IBMCapstoneFinalProject/blob/master/Final%20Project%20Get%20Data.ipynb  
 * Part 2 - Get Foursquare Data: https://nbviewer.jupyter.org/github/KathrynDH/IBMCapstoneFinalProject/blob/master/Final%20Project%20-%20Get%20FourSquare%20Data.ipynb  
