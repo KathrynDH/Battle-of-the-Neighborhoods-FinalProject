@@ -14,9 +14,8 @@ Notebooks:
 * Part 5 - Explore the Clusters: https://nbviewer.jupyter.org/github/KathrynDH/IBMCapstoneFinalProject/blob/master/Explore%20the%20Clusters.ipynb
   
 There are also two follow up notebooks where I used Agglomerative clustering in place of KMeans:  
-https://nbviewer.jupyter.org/github/KathrynDH/IBMCapstoneFinalProject/blob/master/Cluster%20Metro%20Areas%20Agglomerative.ipynb  
-
-
+* https://nbviewer.jupyter.org/github/KathrynDH/IBMCapstoneFinalProject/blob/master/Cluster%20Metro%20Areas%20Agglomerative.ipynb  
+* https://nbviewer.jupyter.org/github/KathrynDH/IBMCapstoneFinalProject/blob/master/Explore%20the%20Clusters%20Agglomerative.ipynb
 
 Course Reference:
 https://www.coursera.org/learn/applied-data-science-capstone  
