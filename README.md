@@ -20,7 +20,6 @@ There are also two follow up notebooks where I used Agglomerative clustering in 
 Course Reference:
 https://www.coursera.org/learn/applied-data-science-capstone  
 
-Data sources:
+Data sources:  
 https://en.wikipedia.org/wiki/List_of_metropolitan_areas_by_population  
-
 https://developer.foursquare.com/
